@@ -2,10 +2,10 @@
 
 SuriZeek is a Splunk app that correlates Suricata alerts with Zeek network logs. It provides dashboards for overview, Suricata alerts, Zeek context, and a combined investigation view that shows the Zeek connection behind each alert.
 
-<!-- Splunkbase app page:
-https://splunkbase.splunk.com/
+Splunkbase:
+https://splunkbase.splunk.com/app/9818
 
-This repository is a usage guide for the app. It is intended for analysts and Splunk administrators who want to install, configure, and operate the app. -->
+This repository is a usage guide for the app. It is intended for analysts and Splunk administrators who want to install, configure, and operate the app.
 
 ---
 
